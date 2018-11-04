@@ -1,0 +1,120 @@
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\LoginForm.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\LoginForm.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\LoginForm.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\obj\Debug\LoginForm.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\obj\Debug\LoginForm.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\AutoSalon.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\obj\Debug\LoginForm.AdminForm.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\Employee.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\Employee.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\LoginForm\bin\Debug\Employee.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\obj\Debug\LoginForm.AdminForm.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\bin\Debug\LoginForm.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\bin\Debug\LoginForm.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\bin\Debug\LoginForm.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\bin\Debug\Employee.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\bin\Debug\Employee.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\bin\Debug\Employee.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\obj\Debug\LoginForm.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\LoginForm\obj\Debug\LoginForm.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\LoginForm.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\LoginForm.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\LoginForm.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Employee.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Employee.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Employee.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\obj\Debug\LoginForm.AdminForm.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\obj\Debug\LoginForm.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\obj\Debug\LoginForm.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Client.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Director.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Client.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Client.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Director.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\LoginForm\bin\Debug\Director.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.AdminForm.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\LoginForm.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\LoginForm.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\LoginForm.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Consultant.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Director.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Manager.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Consultant.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Consultant.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Director.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Director.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Manager.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Manager.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Clients.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Clients.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Clients.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\LoginForm.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\LoginForm.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\LoginForm.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Clients.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Consultant.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Director.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Manager.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Clients.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Clients.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Consultant.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Consultant.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Director.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Director.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Manager.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\bin\Debug\Manager.exe.config
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.AdminForm.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\LoginForm\obj\Debug\LoginForm.pdb

@@ -1,0 +1,91 @@
+\\Mac\Home\Documents\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe.config
+\\Mac\Home\Documents\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\AutoSalon\AutoSalon\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\AutoSalon\AutoSalon\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\AutoSalon\AutoSalon\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\AutoSalon\AutoSalon\obj\Debug\AutoSalon.Form1.resources
+\\Mac\Home\Documents\AutoSalon\AutoSalon\obj\Debug\AutoSalon.Properties.Resources.resources
+\\Mac\Home\Documents\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.GenerateResource.cache
+\\Mac\Home\Documents\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CopyComplete
+\\Mac\Home\Documents\AutoSalon\AutoSalon\obj\Debug\AutoSalon.exe
+\\Mac\Home\Documents\AutoSalon\AutoSalon\obj\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\AutoSalon\AutoSalon\obj\Debug\AutoSalon.View.Form2.resources
+\\Mac\Home\Documents\Autosalon\AutoSalon\obj\Debug\AutoSalon.View.Form3.resources
+\\Mac\Home\Documents\Autosalon\AutoSalon\obj\Debug\AutoSalon.View.Form4.resources
+\\Mac\Home\Documents\Autosalon\AutoSalon\obj\Debug\AutoSalon.View.Form5.resources
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe.config
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.Form1.resources
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.View.Form2.resources
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.View.Form3.resources
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.View.Form4.resources
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.View.Form5.resources
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\AutoSalon\AutoSalon\obj\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\obj\Debug\AutoSalon.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\obj\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\obj\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\obj\Debug\AutoSalon.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\obj\Debug\AutoSalon.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\obj\Debug\AutoSalon.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\obj\Debug\AutoSalon.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\obj\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\obj\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\obj\Debug\AutoSalon.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия\AutoSalon\obj\Debug\AutoSalon.Form2.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\obj\Debug\AutoSalon.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\obj\Debug\AutoSalon.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\obj\Debug\AutoSalon.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\obj\Debug\AutoSalon.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\obj\Debug\AutoSalon.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\obj\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon — копия — копия\AutoSalon\obj\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\AutoSalon\AutoSalon\obj\Debug\AutoSalon.Client.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\bin\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\bin\Debug\AutoSalon.pdb
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\bin\Debug\Npgsql.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\bin\Debug\Mono.Security.dll
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.Properties.Resources.resources
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.csproj.CopyComplete
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.exe
+\\Mac\Home\Documents\Разное\Учеба\Универ\3 курс (2 семестр)\Курсач\Программы\AutoSalon\AutoSalon\obj\Debug\AutoSalon.pdb
